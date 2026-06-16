@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Never commit anything that could leak the core product or secrets
+*.env
+.env*
+!.env.example
+*.key
+*.pem
+*.p12
+secrets/
+credentials/
+# Guard: no app source should ever live here
+source_snapshot/
+node_modules/
+dist/
