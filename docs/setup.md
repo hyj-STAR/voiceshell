@@ -5,7 +5,7 @@
 - macOS 为已签名 + 公证版本,正常双击安装即可。
 
 ## 2. 安装虚拟声卡（用于会议直连）
-VoiceShell 通过虚拟声卡把"你的声音"送进会议软件。请先安装 **VB-Cable**：
+VoiceShell 通过虚拟声卡把"你的声音"送进会议软件。请先安装 **VB-Cable**（[vb-audio.com/Cable](https://vb-audio.com/Cable/)，免费）：
 - 它会提供 **CABLE Input**（输入）和 **CABLE Output**（输出）两个虚拟设备。
 
 ## 3. 路由设置
