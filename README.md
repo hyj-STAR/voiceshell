@@ -43,11 +43,13 @@ This repository hosts the **public website, documentation, and release notes onl
 
 ## 隐私 / Privacy
 
-〔待你确认：隐私政策一句话 + 是否本地处理/云端处理的说明〕
+VoiceShell 的所有语音识别与处理均**完全在本地运行**，不上传任何音频或文字内容到外部服务器。你的声音只在你的设备上。
+
+All speech recognition and processing runs **entirely on-device**. No audio or transcription data is ever sent to external servers. Your voice stays on your machine.
 
 ## 联系 / Contact
 
-〔待你填：联系邮箱 / 反馈渠道〕
+微信 / WeChat：**15515980026**
 
 ---
 
