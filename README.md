@@ -36,11 +36,6 @@ VoiceShell lets you speak in a **near-whisper**. It transcribes your quiet voice
 
 > 安装与会议声音路由（VB-Cable）设置见 [docs/](docs/)。
 
-## 关于本仓库 / About this repo
-
-本仓库用于**对外展示、文档与发布说明**，**不包含应用核心源代码**（VoiceShell 为闭源商业软件）。
-This repository hosts the **public website, documentation, and release notes only**. It does **not** contain the application source code — VoiceShell is proprietary, closed-source software.
-
 ## 隐私 / Privacy
 
 VoiceShell 的所有语音识别与处理均**完全在本地运行**，不上传任何音频或文字内容到外部服务器。你的声音只在你的设备上。
